@@ -6,9 +6,9 @@ For controlling and manoeuvring the speed of a DC Motor-based  Fan.
 The Voice Control increases range of speeds at which the Fan can operate in,  regardless of the Temperature sampled.
 As a result, the physical effort required is reduced,  making the process considerably easier.
 
-# Project Work by:
-a) Arkajyoti Bhattacharya
-b) Sohel Kabir Rana
-c) Debarun Roy
-d) Debangshu De
-e) Souradeep Dey
+# Project Work by :
+a) Arkajyoti Bhattacharya /n
+b) Sohel Kabir Rana /n
+c) Debarun Roy /n
+d) Debangshu De /n
+e) Souradeep Dey /n
