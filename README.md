@@ -7,8 +7,8 @@ The Voice Control increases range of speeds at which the Fan can operate in,  re
 As a result, the physical effort required is reduced,  making the process considerably easier.
 
 # Project Work by :
-a) Arkajyoti Bhattacharya /n
-b) Sohel Kabir Rana /n
-c) Debarun Roy /n
-d) Debangshu De /n
-e) Souradeep Dey /n
+a) Arkajyoti Bhattacharya <br />
+b) Sohel Kabir Rana <br />
+c) Debarun Roy <br />
+d) Debangshu De <br />
+e) Souradeep Dey 
